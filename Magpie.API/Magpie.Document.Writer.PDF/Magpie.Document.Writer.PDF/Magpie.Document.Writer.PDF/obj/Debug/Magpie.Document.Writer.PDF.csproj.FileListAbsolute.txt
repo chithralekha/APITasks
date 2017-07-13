@@ -1,0 +1,15 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\Magpie.Document.Writer.PDF.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\Magpie.Document.Writer.PDF.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.Core.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.S3.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\itextsharp.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\Magpie.Document.Writer.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\Magpie.Document.Writer.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.Core.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.Core.xml
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.S3.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\AWSSDK.S3.xml
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\bin\Debug\itextsharp.xml
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\obj\Debug\Magpie.Document.Writer.PDF.csprojResolveAssemblyReference.cache
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\obj\Debug\Magpie.Document.Writer.PDF.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\Magpie.Document.Writer.PDF\obj\Debug\Magpie.Document.Writer.PDF.pdb

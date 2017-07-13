@@ -1,0 +1,4 @@
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer\Magpie.Document.Writer\Magpie.Document.Writer\bin\Debug\Magpie.Document.Writer.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer\Magpie.Document.Writer\Magpie.Document.Writer\bin\Debug\Magpie.Document.Writer.pdb
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer\Magpie.Document.Writer\Magpie.Document.Writer\obj\Debug\Magpie.Document.Writer.dll
+C:\_Magpie\OldTrout\Deprecated\Magpie.API\Magpie.Document.Writer\Magpie.Document.Writer\Magpie.Document.Writer\obj\Debug\Magpie.Document.Writer.pdb
